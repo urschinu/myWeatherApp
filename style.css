@@ -107,7 +107,7 @@ body {
     display: none;
 }
 
-@media (max-width: 400px){
+@media (max-width: 360px){
     .search input {
         height: 46px;
         padding: 10px 5px;
@@ -127,5 +127,8 @@ body {
         font-size: 30px;
         font-weight: 400;
         margin-top: 12px;
+    }
+    .card{
+        width: 100%;
     }
 }
