@@ -131,4 +131,11 @@ body {
     .card{
         width: 100%;
     }
+    .col img {
+        width: 25px;
+        margin-right: 5px;
+    }
+    .col >div>p{
+        font-size: 15px;
+    }
 }
